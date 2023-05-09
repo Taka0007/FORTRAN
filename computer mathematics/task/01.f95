@@ -1,6 +1,7 @@
 ! エラトステネスの篩を実装
 ! 2-1500までの数を調べ、素数が110個見つかったら終了するコード
 ! 「2 3 4 5」 などのように一行に4つ出力する
+! ideoneリンク：https://ideone.com/FjpnzS
 Program Answer
 Implicit None
 
