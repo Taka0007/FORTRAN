@@ -1,4 +1,4 @@
-! 3次元ベクトル大きさを求める
+! 3次元ベクトルの大きさを求める
 Program Ans
  implicit none
  REAL vector(3)
