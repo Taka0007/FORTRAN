@@ -1,6 +1,6 @@
 ! 3次元ベクトル大きさを求める
 Program Ans
- implicit none
+ Implicit None
  REAL vector(3)
  REAL vecsize
  INTEGER i
