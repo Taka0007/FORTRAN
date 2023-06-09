@@ -1,4 +1,4 @@
-! 3次元ベクトル大きさを求める
+! 3次元ベクトルの大きさを求める
 Program Ans
  Implicit None
  REAL vector(3)
@@ -11,4 +11,4 @@ Program Ans
 
  WRITE(*,*) vecsize
 
-END Program Ans
+END Program Ans         
