@@ -1,3 +1,6 @@
+! シンプソンの公式を用いて 4/(1+x**2)dxの0-1の積分を求める
+! 解析的な答えはπ
+
 Program Ans
 Implicit None
  REAL N,ans1,ans2,ans3,ans4,ans5,width,ans6
